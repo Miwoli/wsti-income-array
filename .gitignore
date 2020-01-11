@@ -1,0 +1,4 @@
+o_files/**/*
+!o_files/.gitkeep
+**.exe
+./vscode
